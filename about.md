@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-This is your About page. Celebrate yourself and show the world who you are!
+Hello, I'm [u:r] and this is my blog. I'm a computer programmer student and I like to write about things I learn. I'm currently working on a [app] for Web. 
