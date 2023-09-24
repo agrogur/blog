@@ -1,0 +1,4 @@
+---
+layout: none
+permalink: .well-known/pki-validation/6C13EDA5971394EF315EA847B417E4A8.txt
+---
